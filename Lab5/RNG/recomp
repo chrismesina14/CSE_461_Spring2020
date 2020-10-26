@@ -1,0 +1,3 @@
+g++ -c rand_server.c
+g++ -c rand_client.c
+make -f Makefile.rand
